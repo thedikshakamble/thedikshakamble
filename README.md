@@ -29,7 +29,7 @@ Currently experimenting with face recognition and web-controlled ESP32-S3 apps.
 ### 🔗 Connect With Me
 - 📫 Email: thedikshakamble@gmail.com  
 - 💼 LinkedIn:   https://www.linkedin.com/in/diksha-kamble-214590324
-- 
+  
 
 ---
 
